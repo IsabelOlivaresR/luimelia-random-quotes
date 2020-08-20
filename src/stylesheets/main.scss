@@ -38,11 +38,10 @@
   background-image: url('https://i.postimg.cc/vBfp0d66/600766-PMYQYN-225.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
 }
 .container {
-  background-image: url('https://i.postimg.cc/vBfp0d66/600766-PMYQYN-225.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -89,18 +88,18 @@
       width: 80%;
     }
     @media all and (min-width: 1200px) {
-      width: 70%;
+      width: 80%;
     }
     &__quote {
       font-size: 20px;
       text-align: justify;
-      margin-bottom: 15px;
+      margin-bottom: 10px;
 
       @media all and (min-width: 768px) {
-        font-size: 25px;
+        font-size: 22px;
       }
       @media all and (min-width: 1200px) {
-        font-size: 25px;
+        font-size: 23px;
       }
     }
     &__name {
@@ -108,12 +107,12 @@
       font-size: 20px;
       font-family: 'Raleway', sans-serif;
       text-transform: uppercase;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
       @media all and (min-width: 768px) {
-        font-size: 25px;
+        font-size: 22px;
       }
       @media all and (min-width: 1200px) {
-        font-size: 30px;
+        font-size: 23px;
       }
     }
     &__img {
