@@ -33,13 +33,12 @@
 }
 
 //Quote
-.page {
+
+.container {
+  height: 100vh;
   background-image: url('https://i.postimg.cc/vBfp0d66/600766-PMYQYN-225.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-}
-.container {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -97,7 +96,7 @@
         font-size: 25px;
       }
       @media all and (min-width: 1200px) {
-        font-size: 30px;
+        font-size: 25px;
       }
     }
     &__name {
@@ -114,8 +113,8 @@
       }
     }
     &__img {
-      width: 80%;
-      max-width: 600px;
+      width: 70%;
+      max-width: 500px;
       border-radius: 10px;
     }
   }
