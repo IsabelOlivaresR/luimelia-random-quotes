@@ -80,13 +80,13 @@
     border-radius: 15px;
     background-color: rgba(252, 201, 29, 0.9);
     box-shadow: 11px -9px 13px -8px rgba(0, 0, 0, 0.75);
-    padding: 5%;
+    padding: 3%;
     font-family: 'Inconsolata', monospace;
     @media all and (min-width: 768px) {
       width: 80%;
     }
     @media all and (min-width: 1200px) {
-      width: 50%;
+      width: 70%;
     }
     &__quote {
       font-size: 20px;
