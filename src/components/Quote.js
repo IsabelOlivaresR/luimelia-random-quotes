@@ -4,7 +4,7 @@ function getRandomNumber(max) {
   return Math.ceil(Math.random() * max);
 }
 
-const randomNumber = getRandomNumber(8);
+const randomNumber = getRandomNumber(31);
 console.log(randomNumber);
 
 class Quote extends React.Component {
