@@ -1,11 +1,15 @@
 import React from 'react';
 
+//generate random number
+
 function getRandomNumber(max) {
   return Math.ceil(Math.random() * max);
 }
 
-const randomNumber = getRandomNumber(31);
+const randomNumber = getRandomNumber(78);
 console.log(randomNumber);
+
+//paint quote and refresh button
 
 class Quote extends React.Component {
   refreshPage() {

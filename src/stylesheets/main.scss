@@ -6,6 +6,7 @@
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
+  border: 2px solid white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -17,6 +18,10 @@
     color: black;
     background-color: rgba(254, 252, 246, 0.4);
     text-align: center;
+    border: 1px solid white;
+    @media all and (min-width: 1200px) {
+      font-size: 70px;
+    }
   }
   &__button {
     width: 200px;
