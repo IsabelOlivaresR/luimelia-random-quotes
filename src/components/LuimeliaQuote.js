@@ -8,7 +8,7 @@ function getRandomNumber(max) {
   return Math.ceil(Math.random() * max);
 }
 
-const randomNumber = getRandomNumber(26);
+const randomNumber = getRandomNumber(49);
 console.log(randomNumber);
 
 //paint quote and refresh button

@@ -6,7 +6,7 @@ class Landing extends React.Component {
     return (
       <div className='main'>
         <h1 className='main__title'>
-          ¿Qué frase de Luisita o Amelia eres en...?
+          ¿Quieres una frase de Luisita o Amelia en...?
         </h1>
         <div className='button__container'>
           <Link to={'/amarquote'} title='quote'>

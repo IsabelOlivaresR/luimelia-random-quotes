@@ -3,7 +3,7 @@
     "quote": "Porque la vida no es como nos la han contado, bueno y el amor ya...",
     "name": "Luisita Gómez",
     "id": "1",
-    "image": ""
+    "image": "https://i.postimg.cc/152NbW3D/amor.png"
   },
   {
     "quote": "Claro que sí, que es muy importante visibilizarnos como lesbianas a nosotras también.",
@@ -12,7 +12,7 @@
     "image": "https://i.postimg.cc/YSyKsLbj/lesbi.png"
   },
   {
-    "quote": "Es que tú no fluyes, tú eres lesbiana y punto. ",
+    "quote": "Es que tú no fluyes, tú eres lesbiana y punto.",
     "name": "Luisita Gómez",
     "id": "3",
     "image": "https://i.postimg.cc/Gp3F15h2/punto.png"
@@ -27,7 +27,7 @@
     "quote": "No, la convivencia nos mostró tal y cómo somos, ambas, pero esto no es malo es real.",
     "name": "Amelia Ledesma",
     "id": "5",
-    "image": ""
+    "image": "https://i.postimg.cc/cHyZfnTq/convivencita.png"
   },
   {
     "quote": "No puede ser porque no pueden poner a un gay y a una lesbiana en la misma serie porque se colapsa el universo.",
@@ -39,7 +39,7 @@
     "quote": "Estar feliz en pareja o sola, que también se está muy bien ¿eh? Ojo.",
     "name": "Luisita Gomez",
     "id": "7",
-    "image": ""
+    "image": "https://i.postimg.cc/hjyrH9Y6/puerta2.png"
   },
   {
     "quote": "Es el peor sindrome de la lesbiana muerta que he visto yo en mi vida.",
@@ -54,7 +54,7 @@
     "image": "https://i.postimg.cc/1zz4F68z/guapa.png"
   },
   {
-    "quote": "Siempre se las arreglan para que entre las mujeres no se vea el sexo. En cambio a los heteros ¿qué? No los cortan nunca",
+    "quote": "Siempre se las arreglan para que entre las mujeres no se vea el sexo. En cambio a los heteros ¿qué? No los cortan nunca.",
     "name": "Amelia Ledesma",
     "id": "10",
     "image": "https://i.postimg.cc/HnmZXt97/heteros.png"
@@ -69,13 +69,13 @@
     "quote": "Nunca he dejado de quererte.",
     "name": "Luisita Gómez",
     "id": "12",
-    "image": ""
+    "image": "https://i.postimg.cc/y6FZ2hSG/dejarde.png"
   },
   {
     "quote": "Yo tampoco.",
     "name": "Amelia Ledesma",
     "id": "13",
-    "image": ""
+    "image": "https://i.postimg.cc/gk2243y8/tampoco.png"
   },
   {
     "quote": "No, no se atreverán, joder...¡Me cago en vuestros putos muertos!",
@@ -87,10 +87,10 @@
     "quote": "Ese es el problema, Luisita, que queremos vivir en una película romántica y encontrar a nuestra media naranja y en realidad pues somos naranjas enteras ¿no? Con nuestras cosas, sí, pero enteras.",
     "name": "Amelia Ledesma",
     "id": "15",
-    "image": ""
+    "image": "https://i.postimg.cc/F15NVJhk/naranjas.png"
   },
   {
-    "quote": "El poder no te lo dan, tienes que cogerlo",
+    "quote": "El poder no te lo dan, tienes que cogerlo.",
     "name": "Beyoncé",
     "id": "16",
     "image": "https://i.postimg.cc/3wHNL6fd/poder.png"
@@ -99,16 +99,16 @@
     "quote": "¿Tú crees que la felicidad existe?",
     "name": "Luisita Gómez",
     "id": "17",
-    "image": ""
+    "image": "https://i.postimg.cc/0NBgCJf5/felicidad.png"
   },
   {
-    "quote": "Un vasito de chupito, un besito",
+    "quote": "Un vasito de chupito, un besito.",
     "name": "Luisita Gómez",
     "id": "18",
     "image": "https://i.postimg.cc/fyv1N3DG/chupito.png"
   },
   {
-    "quote": "Mery, porque estoy muy sola, muy sola",
+    "quote": "Mery, porque estoy muy sola, muy sola.",
     "name": "Luisita Gómez",
     "id": "19",
     "image": "https://i.postimg.cc/1Xp3fv7V/mery.png"
@@ -120,7 +120,7 @@
     "image": "https://i.postimg.cc/LsCTbTTP/salmorejo.png"
   },
   {
-    "quote": "Bueno ahora es cuando debería de volver a la antigüedad que es de donde no debía haber salido",
+    "quote": "Bueno ahora es cuando debería de volver a la antigüedad que es de donde no debía haber salido.",
     "name": "Luisita Gómez",
     "id": "21",
     "image": "https://i.postimg.cc/xTZNhZDn/antiguedad.png"
@@ -168,8 +168,8 @@
     "image": "https://i.postimg.cc/3rZRtn2w/cuadros.png"
   },
   {
-    "quote": "A ver alguna cana te está saliendo esto es así",
-    "name": "Lisita Gómez",
+    "quote": "A ver alguna cana te está saliendo esto es así.",
+    "name": "Luisita Gómez",
     "id": "29",
     "image": "https://i.postimg.cc/gjvLkW7F/cana.png"
   },
@@ -180,69 +180,117 @@
     "image": "https://i.postimg.cc/tJmwTKnk/verdad.png"
   },
   {
-    "quote": "A ver es normal ellos llevan unos meses juntos solo y nosotras estamos en otra fase, Luisita, pero eso no es malo..",
+    "quote": "A ver es normal ellos llevan unos meses juntos solo y nosotras estamos en otra fase, Luisita, pero eso no es malo.",
     "name": "Amelia Ledesma",
     "id": "31",
     "image": "https://i.postimg.cc/6381PHmG/mierda.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "No, no fue nada fácil ¿pero sabéis qué pasa? Que normalmente te meten los créditos antes de que termine la película.",
+    "name": "Amelia Ledesma",
+    "id": "32",
+    "image": "https://i.postimg.cc/L65NS0BX/creditos.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "Decía que ahí se acabó, el drama, porque las dos queriamos solucionarlo poner de nuestra parte ¿y cómo lo hicimos? Hablando.",
+    "name": "Luisita Gómez",
+    "id": "33",
+    "image": "https://i.postimg.cc/W48khssP/hablando.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "A ver había mucha tensión acumulada y la tensión es muy mala. Todo el mundo lo sabe.",
+    "name": "Amelia Ledesma",
+    "id": "34",
+    "image": "https://i.postimg.cc/pdRGnQn5/tensi-n.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "A ver si yo me puedo explicar,es que lo que yo creo es que estoy idealizando la idea del amor en vez de al amor en sí.",
+    "name": "Luisita Gómez",
+    "id": "35",
+    "image": "https://i.postimg.cc/R0hPRSXv/idea.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "A ver que yo digo naranjas pero en realidad sirve cualquier fruta ¿eh? No sé, por ejemplo, melones enteros, manzanas enteras, platanos...",
+    "name": "Amelia Ledesma",
+    "id": "36",
+    "image": "https://i.postimg.cc/YSNSd79y/platano.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "Una puta mierda.",
+    "name": "Luisita Gómez",
+    "id": "37",
+    "image": "https://i.postimg.cc/j2n0k6cd/gato.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "A ver la confianza es síntoma de una relación sana.",
+    "name": "Amelia Ledesma",
+    "id": "38",
+    "image": "https://i.postimg.cc/W442wkBt/confianza.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "Bueno escribir, pintar, jugar a la consola, yo que sé... Dedicarse espacio a uno mismo, eso importa.",
+    "name": "Luisita Gómez",
+    "id": "39",
+    "image": "https://i.postimg.cc/HkhNF8Jr/espacio.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "Una puta mierda.",
+    "name": "Amelia Ledesma",
+    "id": "40",
+    "image": "https://i.postimg.cc/Dw9gqrJP/mierda2.png"
   },
   {
-    "quote": "",
-    "name": "",
-    "id": "",
-    "image": ""
+    "quote": "¡Ay ay ay ay el cuadrito!",
+    "name": "Luisita Gómez",
+    "id": "41",
+    "image": "https://i.postimg.cc/VvJgqDR4/cuidrito.png"
+  },
+  {
+    "quote": "Hay veces que no hay que hacer tanto caso a los consejos ¿eh?",
+    "name": "Luisita Gómez",
+    "id": "42",
+    "image": "https://i.postimg.cc/NMkFNcNj/gui-o.jpg"
+  },
+  {
+    "quote": "Sabemos que nuestra relación no es perfecta pero es exactamente donde queremos estar.",
+    "name": "Luisita Gómez y Amelia Ledesma",
+    "id": "43",
+    "image": "https://i.postimg.cc/QtFs7ZRz/beso.png"
+  },
+  {
+    "quote": "Ahí perfecto, ahí está de puta madre.",
+    "name": "Luisita Gómez",
+    "id": "44",
+    "image": "https://i.postimg.cc/rs8ptPNR/putamadre.png"
+  },
+  {
+    "quote": "Han cogido a otra chica que al parecer también es influencer.",
+    "name": "Amelia Ledesma",
+    "id": "45",
+    "image": "https://i.postimg.cc/502GY5FN/influencer.png"
+  },
+  {
+    "quote": "¡Uy qué susto, maricón!",
+    "name": "Luisita Gómez",
+    "id": "46",
+    "image": "https://i.postimg.cc/HkWPP4B0/susto.png"
+  },
+  {
+    "quote": "Que no, que no, cariño. Es justo lo contrario, la improesía tiene que fluir. Mira, mira, me está viniendo un haiku.",
+    "name": "Amelia Ledesma",
+    "id": "47",
+    "image": "https://i.postimg.cc/FHjsDvCk/haiku.png"
+  },
+  {
+    "quote": "Sé lo que me vas a decir y es que tienes razón cariño, tienes toda la razón. ¿Que más da lo que opine un desconocido? Lo importante es que lo que haga, me guste a mí. Fin de la historia.",
+    "name": "Amelia Ledesma",
+    "id": "48",
+    "image": "https://i.postimg.cc/YqtHMFd0/desconocido.png"
+  },
+  {
+    "quote": "Perdoname, amor, perdón de verdad es que... es que no lo he sabido hacer mejor, por favor...",
+    "name": "Luisita Gómez",
+    "id": "49",
+    "image": "https://i.postimg.cc/vHnVFpSb/porfavor.png"
   }
 ]
