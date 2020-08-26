@@ -2,11 +2,10 @@
 
 .main {
   height: 100vh;
-  background-image: url(../images/background-opacity.png);
+  background-image: url(https://i.postimg.cc/Pr7NsNJp/367502-PAXLKG-681.jpg);
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
-  border: 2px solid white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -14,33 +13,80 @@
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   &__title {
-    font-size: 50px;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
     color: black;
-    background-color: rgba(254, 252, 246, 0.4);
+    // background-color: rgba(254, 252, 246, 0.4);
+    // border: 1px solid white;
     text-align: center;
-    border: 1px solid white;
+    @media all and (min-width: 768px) {
+      font-size: 55px;
+    }
+
     @media all and (min-width: 1200px) {
-      font-size: 70px;
+      font-size: 75px;
     }
   }
   &__button {
     width: 200px;
-    height: 50px;
+    height: 150px;
+    background-image: url(https://i.postimg.cc/wjVpsvKw/boton.png);
+    background-size: cover;
+    background-position: center;
     border-radius: 10px;
-    font-size: 20px;
-    font-weight: 700;
+    border: 2px solid white;
     box-shadow: 11px -9px 13px -8px rgba(0, 0, 0, 0.75);
-    text-transform: uppercase;
-    &:hover {
-      background-color: #d8d6d1;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    @media all and (min-width: 768px) {
+      width: 250px;
+      height: 200px;
+    }
+
+    @media all and (min-width: 1200px) {
+      width: 300px;
+      height: 250px;
+      margin-right: 50px;
     }
   }
 }
+.button__container {
+  display: flex;
+  flex-direction: column;
+  @media all and (min-width: 768px) {
+    flex-direction: row;
+  }
+}
+.luimelia__button {
+  width: 200px;
+  height: 150px;
+  background-image: url(https://i.postimg.cc/g2rSjtGt/boton.png);
+  background-size: cover;
+  border-radius: 10px;
+  border: 2px solid white;
+  box-shadow: 11px -9px 13px -8px rgba(0, 0, 0, 0.75);
+  @media all and (min-width: 768px) {
+    width: 250px;
+    height: 200px;
+  }
 
+  @media all and (min-width: 1200px) {
+    width: 300px;
+    height: 250px;
+  }
+}
 //Quote
 .page {
   height: 100vh;
   background-image: url('https://i.postimg.cc/vBfp0d66/600766-PMYQYN-225.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+}
+.page2 {
+  height: 100vh;
+  background-image: url('https://i.postimg.cc/90JX26w1/fondoluimelia.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -125,5 +171,14 @@
       max-width: 450px;
       border-radius: 10px;
     }
+  }
+}
+.back__button {
+  width: 50px;
+  @media all and (min-width: 768px) {
+    width: 70px;
+  }
+  @media all and (min-width: 1200px) {
+    width: 90px;
   }
 }

@@ -6,11 +6,16 @@ class Landing extends React.Component {
     return (
       <div className='main'>
         <h1 className='main__title'>
-          ¿Qué frase de Luimelia en "Amar es para siempre" eres hoy?
+          ¿Qué frase de Luisita o Amelia eres en...?
         </h1>
-        <Link to={'/quote'} title='quote'>
-          <button className='main__button'>Pulsa aquí</button>
-        </Link>
+        <div className='button__container'>
+          <Link to={'/amarquote'} title='quote'>
+            <button className='main__button'></button>
+          </Link>
+          <Link to={'/luimeliaquote'} title='lquote'>
+            <button className='luimelia__button'></button>
+          </Link>
+        </div>
       </div>
     );
   }

@@ -1,4 +1,6 @@
 import React from 'react';
+import arrow from '../images/flechita.png';
+import { Link } from 'react-router-dom';
 
 //generate random number
 
@@ -11,7 +13,7 @@ console.log(randomNumber);
 
 //paint quote and refresh button
 
-class Quote extends React.Component {
+class AmarQuote extends React.Component {
   refreshPage() {
     window.location.reload();
   }
@@ -38,8 +40,10 @@ class Quote extends React.Component {
     return (
       <div className='page'>
         <ul className='container'>
+          <Link to={'/'} title='home'>
+            <img className='back__button' src={arrow} alt='back' />
+          </Link>
           {quote}
-
           <button className='container__button' onClick={this.refreshPage}>
             ¿quieres otra?
           </button>
@@ -49,4 +53,4 @@ class Quote extends React.Component {
   }
 }
 
-export default Quote;
+export default AmarQuote;
