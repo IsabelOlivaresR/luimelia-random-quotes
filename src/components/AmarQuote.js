@@ -9,7 +9,6 @@ function getRandomNumber(max) {
 }
 
 const randomNumber = getRandomNumber(78);
-console.log(randomNumber);
 
 //paint quote and refresh button
 
