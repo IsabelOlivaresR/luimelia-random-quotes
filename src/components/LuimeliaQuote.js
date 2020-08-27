@@ -9,7 +9,6 @@ function getRandomNumber(max) {
 }
 
 const randomNumber = getRandomNumber(49);
-console.log(randomNumber);
 
 //paint quote and refresh button
 
@@ -18,7 +17,6 @@ class AmarQuote extends React.Component {
     window.location.reload();
   }
   render() {
-    console.log(this.props.data);
     const quote = this.props.data.map((quote) => {
       if (parseInt(quote.id) === randomNumber) {
         return (
@@ -36,7 +34,6 @@ class AmarQuote extends React.Component {
         return true;
       }
     });
-    console.log(quote);
     return (
       <div className='page2'>
         <ul className='container'>
